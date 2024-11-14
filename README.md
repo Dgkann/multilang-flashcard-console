@@ -1,6 +1,6 @@
 # Console-Based Flashcard Study Application
 
-## Links
+## Link
 - GitHub Repository: https://github.com/Dgkann/multilang-flashcard-console
 
 ## Description
