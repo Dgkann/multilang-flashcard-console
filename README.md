@@ -1,7 +1,7 @@
 # Console-Based Flashcard Study Application
 
 ## Links
-- GitHub Repository: (https://github.com/Dgkann/multilang-flashcard-console)]
+- GitHub Repository: https://github.com/Dgkann/multilang-flashcard-console
 
 ## Description
 The Console-Based Flashcard Study Application is implemented in three different programming languages (C#, Python, and JavaScript), each running as standalone console applications. This project demonstrates the same functionality across different languages while providing a simple yet effective way to study using flashcards through a text-based interface.
