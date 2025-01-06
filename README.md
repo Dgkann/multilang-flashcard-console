@@ -175,9 +175,9 @@ Each implementation uses a simple JSON structure for storing flashcards:
 ---
 
 ## Version Information
-- Current Version: 1.0.0
-- Last Updated: 14.11.2024
-- Status: In Development
+- Current Version: 1.0.0 - Final
+- Last Updated: 06.01.2025
+- Status: Submitted
 
 ---
 
